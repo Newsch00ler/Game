@@ -120,7 +120,7 @@ namespace Game
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            pbMain.Invalidate();
+            pbMain.Invalidate(); 
         }
 
         private void pbMain_MouseClick(object sender, MouseEventArgs e)
